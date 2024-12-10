@@ -8,7 +8,7 @@ echo 'apple'
 }
 stage('banana'){
 steps {
-echo 'banana
+echo 'banana'
 }
 }
 stage('graphs'){
